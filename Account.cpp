@@ -220,7 +220,7 @@ string Account::getBalance()
 {
 	if (!isLoggedIn)
 		return "You are not logged in!\n";
-	return "Balance: " + to_string(balance) + "\n";
+	return "Balance: $" + to_string(balance) + "\n";
 }
 
 string Account::getPortfolio()
