@@ -44,9 +44,43 @@ In total there are 12 commands. The first 5 commands do not require the user to 
   <br><br>
   <img src="https://user-images.githubusercontent.com/61638274/134105658-70f69afd-c38c-4a49-8297-23fa2746a29e.png" alt="image" width = 400/>
 </p>
-</p>
 <p align="center">
   &lt;ticker&gt; year - Enter a ticker symbol to get yearly information
   <br><br>
   <img src="https://user-images.githubusercontent.com/61638274/134105824-2fa69e51-aa59-4a59-9e54-e02226bd4148.png" alt="image" width = 400/>
+</p>
+<p align="center">
+  login - Login so that you can buy and sell stock
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/61638274/134107484-2b571029-9c8d-40ea-85e1-8dd27ba3b508.png" alt="image" width = 400/>
+</p>
+<p align="center">
+  register - Create a new account for paper trading
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/61638274/134107377-d0421be4-c6ef-4a11-90d8-cc434a440cb3.png" alt="image" width = 400/>
+</p>
+<p align="center">
+  logout - Logout to end the session
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/61638274/134107563-ffa543e5-6747-4b79-8232-f4be14d72755.png" alt="image" width = 400/>
+</p>
+<p align="center">
+  buy - Add a stock to your portfolio
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/61638274/134107697-1f2ec998-64db-4f8f-bc0f-e324589e98a5.png" alt="image" width = 400/>
+</p>
+<p align="center">
+  sell - Sell a stock from your portfolio
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/61638274/134107953-fb3518b9-7d13-47aa-8c18-240740e0e04b.png" alt="image" width = 400/>
+</p>
+<p align="center">
+  balance - Print out your current balance
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/61638274/134108653-4416adbb-1251-4c6e-abde-37e15b7e2559.png" alt="image" width = 400/>
+</p>
+<p align="center">
+  portfolio - Print out your portfolio
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/61638274/134108299-1b3cac3b-a1d9-4e1a-9a13-0d84346ecd73.png" alt="image" width = 400/>
 </p>
